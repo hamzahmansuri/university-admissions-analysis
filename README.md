@@ -51,19 +51,18 @@ state-level acceptance rates?
 
 ## How to Run
 
-```bash
-git clone https://github.com/hamzahmansuri/university-admissions-analysis
-cd university-admissions-analysis
-pip install pandas matplotlib seaborn scipy jupyter
-jupyter notebook FinalProject_Group059_SP25.ipynb
-```
+    git clone https://github.com/hamzahmansuri/university-admissions-analysis
+    cd university-admissions-analysis
+    pip install pandas matplotlib seaborn scipy jupyter
+    jupyter notebook FinalProject_Group059_SP25.ipynb
 
 ## Project Structure
-├── Data/                            # Raw datasets (IPEDS + US News)
-├── DataCheckpoint_Group059.ipynb    # Data cleaning and wrangling
-├── EDACheckpoint_Group059.ipynb     # Exploratory data analysis
-├── FinalProject_Group059.ipynb      # Full analysis and findings
-└── ProjectProposal_Group059.ipynb   # Original research proposal
+
+    ├── Data/                            # Raw datasets (IPEDS + US News)
+    ├── DataCheckpoint_Group059.ipynb    # Data cleaning and wrangling
+    ├── EDACheckpoint_Group059.ipynb     # Exploratory data analysis
+    ├── FinalProject_Group059.ipynb      # Full analysis and findings
+    └── ProjectProposal_Group059.ipynb   # Original research proposal
 
 ## Contributors
 
